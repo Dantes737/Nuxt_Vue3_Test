@@ -1,1 +1,0 @@
-import{i as o,o as c,a as n,e as t,j as s}from"./entry.fe6e08ef.js";const _={},a={class:"min-h-screen m-2"};function r(m,i){const e=s;return c(),n("div",a,[t(e)])}const f=o(_,[["render",r]]);export{f as default};
