@@ -1,13 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: true,
-  nitro: {
-    output: {
-      dir: "output",
-      serverDir: "output/server",
-      publicDir: "output/public",
-    },
-  },
+  ssr: false,
   modules: ["@nuxtjs/tailwindcss"],
   runtimeConfig: {
     // The private keys which are only available server-side
