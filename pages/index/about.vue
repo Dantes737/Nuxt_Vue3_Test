@@ -41,7 +41,7 @@
       >
         <div class="lg:pr-4">
           <div class="lg:max-w-lg">
-            <p class="text-base font-semibold leading-7 text-amber-900">
+            <p class="text-base font-semibold leading-7 text-black">
               Deploy faster
             </p>
             <h1
@@ -82,10 +82,10 @@
             <ul role="list" class="mt-8 space-y-8 text-gray-600">
               <li class="flex gap-x-3">
                 <CloudArrowUpIcon
-                  class="mt-1 h-5 w-5 flex-none text-black"
+                  class="mt-1 h-5 w-5 flex-none text-white"
                   aria-hidden="true"
                 />
-                <span
+                <span class="text-black"
                   ><strong class="font-semibold text-gray-900"
                     >Push to deploy.</strong
                   >
@@ -96,10 +96,10 @@
               </li>
               <li class="flex gap-x-3">
                 <LockClosedIcon
-                  class="mt-1 h-5 w-5 flex-none text-black"
+                  class="mt-1 h-5 w-5 flex-none text-white"
                   aria-hidden="true"
                 />
-                <span
+                <span class="text-black"
                   ><strong class="font-semibold text-gray-900"
                     >SSL certificates.</strong
                   >
@@ -109,10 +109,10 @@
               </li>
               <li class="flex gap-x-3">
                 <ServerIcon
-                  class="mt-1 h-5 w-5 flex-none text-black"
+                  class="mt-1 h-5 w-5 flex-none text-white"
                   aria-hidden="true"
                 />
-                <span
+                <span class="text-black"
                   ><strong class="font-semibold text-gray-900"
                     >Database backups.</strong
                   >
