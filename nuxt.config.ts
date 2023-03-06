@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  ssr: true,
   modules: ["@nuxtjs/tailwindcss"],
   runtimeConfig: {
     // The private keys which are only available server-side
