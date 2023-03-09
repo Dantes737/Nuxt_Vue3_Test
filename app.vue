@@ -8,6 +8,6 @@ body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  background-image: linear-gradient(to bottom right, #ff0000, #ff3964);
+  background-image: linear-gradient(to bottom right, #ff4a62, #ebebeb);
 }
 </style>
